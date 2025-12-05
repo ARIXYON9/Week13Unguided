@@ -1,5 +1,5 @@
 import streamlit as st
-from prediction import prepare_input, predict
+from Prediction import prepare_input, predict
 
 st.title("Ad Target Match Predictor")
 
